@@ -46,3 +46,5 @@ manager.listTasks();
 
 manager.completeTask(1);
 manager.listTasks();
+
+//added comments to explain the code
